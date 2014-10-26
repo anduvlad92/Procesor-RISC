@@ -9,23 +9,65 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.3c/examples
 vdata_memory
-!s110 1414316845
+!s110 1414326261
 !i10b 1
 !s100 JLKcfdWoge8oM1zc86@OW3
 IacWJ0;kT7S@_ej4LYhi580
-V`JN@9S9cnhjKRR_L]QIcM3
-dC:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dC:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC
 w1414316843
 8C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v
 FC:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v
 L0 1
-OP;L;10.3c;59
+Z2 OP;L;10.3c;59
 r1
 !s85 0
 31
-!s108 1414316845.608000
+!s108 1414326261.910000
 !s107 C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v|
 !s101 -O0
 !i113 1
-o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfile_reg
+Z4 !s110 1414326262
+!i10b 1
+!s100 jK_V`Ca;F2Gbh0nzaNzBn0
+IYn`dDSai;QfVTiK]1oIYI1
+R0
+R1
+w1414326259
+8C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v
+FC:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1414326262.280000
+!s107 C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v|
+!s101 -O0
+!i113 1
+R3
+vprogram_memory
+R4
+!i10b 1
+!s100 LJYaLhchIEoz>58F_QH:^1
+IoR_k2YFHBARkGSnFd]WXo2
+R0
+R1
+w1414326207
+8C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/program_memory.v
+FC:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/program_memory.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1414326262.166000
+!s107 C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/program_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/program_memory.v|
+!s101 -O0
+!i113 1
+R3

@@ -9,4 +9,13 @@ Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 
 Top level modules:
 	data_memory
 
-} {} {}}
+} {} {}} {C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v} {0 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v}
+Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module file_reg
+** Error: C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v(13): (vlog-2730) Undefined variable: 'des_addr'.
+
+** Error: C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v(13): (vlog-2730) Undefined variable: 'restul'.
+
+** Error: C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/file_reg.v(23): near "EOF": syntax error, unexpected end of source code
+
+} {4.0 5.0 6.0 7.0 8.0 9.0} {}}
