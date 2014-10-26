@@ -1,4 +1,12 @@
-{C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/program_memory.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/program_memory.v}
+{C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v} {2 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v}
 Model Technology ModelSim PE Student Edition vlog 10.3c Compiler 2014.07 Jul 19 2014
+-- Compiling module data_memory
+** Warning: C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v(8): (vlog-2608) Keyword "unsigned" not allowed here in Verilog 2001.
+
+** Warning: C:/Modeltech_pe_edu_10.3c/examples/Procesor Risc/Procesor-RISC/data_memory.v(11): (vlog-2597) '4294967295' is being treated as 32-bit signed integer and will overflow.
+
+
+Top level modules:
+	data_memory
 
 } {} {}}
