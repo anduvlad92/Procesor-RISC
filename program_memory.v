@@ -8,7 +8,6 @@ integer unsigned i;
 		if(reset)
 			for(i=0;i<=65535;i=i+1)
 				program_memory[i]<=0;
-			
 		else	
 			data<=program_memory[addres];
 	end
