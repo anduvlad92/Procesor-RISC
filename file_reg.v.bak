@@ -1,3 +1,9 @@
+////////////////////////////////////////////
+//Stores temporary variables////////////////
+//dest_addr is a write port/////////////////
+//left_addr and right_addr are read ports///
+//left _addr and right addr are on 5 bits/// 
+//so they have 32 different values///
 module file_reg(input we,
 		input clk,
 		input [4:0] left_addr,
