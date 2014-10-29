@@ -12,7 +12,7 @@ module file_reg(input we,
 		input [4:0] dest_addr,  // we store the result in regFile register  at this addres
 		output reg [31:0]  left_out,
 		output reg[31:0] right_out);
-reg [31:0] regFile [31:0];  //data is stored here
+reg [31:0] regFile [4:0];  //data is stored here
 
 	always@(posedge clk) begin 
 		if(we)
